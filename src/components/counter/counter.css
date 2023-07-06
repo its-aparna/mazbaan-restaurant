@@ -1,0 +1,44 @@
+/* .counter-section{
+    background-color: rgb(232,55,55);
+    padding:2.5rem 0;
+  }
+  .counter-section p{
+    color:white;
+    text-transform: uppercase;
+  }
+  p{
+    font-size: 30px;
+  }
+  #counter{
+    text-align: center;
+    color: white;
+    font-size:  30px;
+    background-color: #ff3333;
+    
+  } */
+
+  /* .skills{
+    background-image: url("/public/mezban-images/back.webp");
+    background-repeat: repeat;
+    background-size: contain;
+    
+  } */
+.section-heading h2 {
+font-family: 'Orbitron', sans-serif;
+margin-bottom: 50px;
+font-weight: 900;
+font-size: 60px;
+letter-spacing: 5px;
+}
+.box {
+    background: #fff;
+    margin-bottom: 30px;
+    padding: 40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, 
+                rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.circle-chart__subline {
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 0.3px;
+}

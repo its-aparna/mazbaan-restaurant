@@ -1,0 +1,12 @@
+export const validEmail = new RegExp("^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+$");
+export const validPassword = new RegExp('^(?=.?[A-Za-z])(?=.?[0-9]).{8,16}$');
+export const validContact=new RegExp('^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$');
+export const validName=new RegExp('[a-zA-Z]+\\.?');
+export const validUserName=new RegExp('[a-zA-Z]+\\.?');
+export const validAvgper2 = new RegExp('^[0-9]');
+export const validFSSAI = new RegExp('^[0-9]');
+export const validRating = new RegExp('^[0-9]');
+export const validTotalTable = new RegExp('^[0-9]');
+export const validAddress = new RegExp('^[a-zA-Z0-9_.-]*$');
+export const validOpeningTime = new RegExp('([01]?[0-9]|2[0-3]):[0-5][0-9]');
+export const validClosingTime = new RegExp('([01]?[0-9]|2[0-3]):[0-5][0-9]');

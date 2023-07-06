@@ -1,0 +1,60 @@
+.subscribe-plan {
+    max-width: 90%;
+    margin: 0 auto;
+   
+} 
+  .subscribe-plan h2 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .subscribe-plan .row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
+  
+
+  .subscribe-plan .plan {
+   
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .subscribe-plan .plan h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .subscribe-plan .plan .duration {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .subscribe-plan .plan .price {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .subscribe-plan .plan .subscribe-btn {
+    background-color: #ff3333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+   
+  }
+  #plan-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  #plan-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }

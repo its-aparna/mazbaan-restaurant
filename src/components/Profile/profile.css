@@ -1,0 +1,85 @@
+/* 
+  li{
+    font-size: large;
+  }
+  #probtn{
+    font-size: medium;
+    float: right;
+  }
+  #allfont{
+    font-size: 10px;
+  } */
+  
+  #rest-list-container{
+    overflow-y: scroll;
+    height: 84vh;
+    overflow-x: scroll;
+}
+
+#table-header{
+    position:sticky;
+    top: 0 ;
+    background-color: #f4f4f4;
+}
+
+/* PageReqRes css */
+.p1{
+    height : 105%;
+}
+
+.p3{
+    height : 40vh
+}
+
+.p4{
+    height:26.5vh;
+    margin-top: 5vh;
+}
+
+.resBtn{
+    background-color: rgb(142, 140, 140);
+    color : white;
+}
+
+
+
+#img1{
+    height: 100%;
+    width: 100%;
+}
+
+.image1div{
+    height: 10%;
+    width: 50%;
+}
+
+.i1{
+    height: 30%;
+    width: 100%;
+}
+
+.r1{
+    height: 10%;
+    /* width: 50%; */
+}
+
+.sideImgHolder{
+    overflow: hidden;
+    background-color:  rgba(255,255,255,0.7);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sideImg{
+    width: 95%;
+    height: 90%;
+}
+
+#inputid{
+    height: 40px;
+}
+.resImg{
+    height: 200px;
+}
