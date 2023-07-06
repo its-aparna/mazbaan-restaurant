@@ -1,4 +1,5 @@
-const BACKEND_URL = "http://localhost:3000";
+// const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://mezbaanb.onrender.com"
 const id = "64493f96826d3aabb5429f91";
 
 export default{
